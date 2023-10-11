@@ -5,4 +5,4 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
  - Ausência de CSS, pois o professor apenas pediu a criação das páginas do projeto e o CSS será incluso tardamente.
  - Presença de ao menos 1 lista ordenada em alguma das páginas.
  - Para futuro: presença de tabela e formulário.
- - 
+ - Adição de metatags básicas para identificação de página web (somente as básicas, author, description e keywords).
