@@ -11,7 +11,7 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 
 # Descrição do trabalho da fonte original
 
-##Trabalho de Conclusão da Disciplina: Projeto de Desenvolvimento Web: Criação de um Site Estático em HTML e CSS
+## Trabalho de Conclusão da Disciplina: Projeto de Desenvolvimento Web: Criação de um Site Estático em HTML e CSS
 Neste projeto, os alunos trabalharão em grupos de três pessoas para criar um site estático em HTML e CSS.
 
 O objetivo é escolher um tema relacionado a uma das disciplinas do módulo e desenvolver um conjunto de páginas que explicará um conteúdo dessa disciplina.
