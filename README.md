@@ -18,7 +18,7 @@ O objetivo é escolher um tema relacionado a uma das disciplinas do módulo e de
 
 Os alunos praticarão conceitos de HTML, CSS e colaboração em equipe.
 
-Divisão do trabalho em etapas:
+## Divisão do trabalho em etapas:
 
 ### Semana 1: Formação de Grupos e Definição do Tema (1 semana)
 
