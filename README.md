@@ -8,6 +8,8 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
  - Adição de metatags básicas para identificação de página web (somente as básicas, author, description e keywords).
  - Modificação de informações do website: Como não é institucional, não deve ter copyright para uma instituição
  - Adição de "Feito por" no """footer""" , remoção de referências à instituição e atualização do formulário.
+ - Adição de um sumário para primeira screenshot do website (requerida pelo professor).
+ - Criação de um mapa de site básico.
 
 # Descrição do trabalho da fonte original
 
@@ -31,6 +33,10 @@ Os alunos praticarão conceitos de HTML, CSS e colaboração em equipe.
  1. Criar a estrutura inicial do site com um arquivo `index.html`. OK
  2. Incluir links de navegação para pelo menos quatro páginas adicionais (totalizando cinco páginas linkadas). OK
  3. Utilizar listas ordenadas em pelo menos uma das páginas. OK
+
+Requerido:
+ - Mapa do site
+ - Print da página principal (início)
 
 ### Semana 3: Desenvolvimento de Páginas Internas (1 semana) (Próxima semana)
 
