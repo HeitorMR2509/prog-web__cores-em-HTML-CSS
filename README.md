@@ -10,6 +10,7 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
  - Adição de "Feito por" no """footer""" , remoção de referências à instituição e atualização do formulário.
  - Adição de um sumário para primeira screenshot do website (requerida pelo professor).
  - Criação de um mapa de site básico.
+ - Adição de tags semânticas
 
 # Descrição do trabalho da fonte original
 
