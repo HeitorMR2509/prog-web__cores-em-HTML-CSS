@@ -48,7 +48,7 @@ Requerido:
 - Mapa do site
 - Print da página principal (início)
 
-### Semana 3: Desenvolvimento de Páginas Internas (1 semana)
+### Semana 3: Desenvolvimento de Páginas Internas (1 semana) (Urgência!!!)
 
 1.  Desenvolver as páginas internas do site, cada uma com um tópico relevante relacionado ao tema escolhido.
 2.  Garantir que todas as páginas tenham uma navegação clara e consistente. OK
@@ -58,3 +58,8 @@ Requerido:
 1.  Inserir imagens relacionadas ao conteúdo em pelo menos três páginas.
 2.  Organizar todas as imagens em uma pasta separada.
 3.  Utilizar pelo menos uma tabela para apresentar informações de maneira estruturada. OK
+
+# Semana 5: Estilização com CSS (1 semana) (Próxima semana)
+
+1. Desenvolver folhas de estilo CSS para aplicar formatação, cores e layout ao site.
+2. Certificar-se de que o site seja responsivo e se adapte a diferentes tamanhos de tela.
