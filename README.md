@@ -29,13 +29,13 @@ Os alunos praticarão conceitos de HTML, CSS e colaboração em equipe.
 
 ## Divisão do trabalho em etapas:
 
-### Semana 1: Formação de Grupos e Definição do Tema (1 semana)
+### Semana 1: Formação de Grupos e Definição do Tema (1 semana) OK
 
 1.  Cada grupo de três alunos deve ser formado e registrado. OK
 2.  Cada grupo escolhe um tema relacionado a uma das disciplinas do módulo. OK
 3.  Cada grupo deve apresentar uma breve descrição do tema escolhido até o final da semana. OK
 
-### Semana 2: Estrutura Inicial e Página Principal (1 semana)
+### Semana 2: Estrutura Inicial e Página Principal (1 semana) OK
 
 1.  Criar a estrutura inicial do site com um arquivo `index.html`. OK
 2.  Incluir links de navegação para pelo menos quatro páginas adicionais (totalizando cinco páginas linkadas). OK
@@ -51,8 +51,8 @@ Requerido:
 1.  Desenvolver as páginas internas do site, cada uma com um tópico relevante relacionado ao tema escolhido.
 2.  Garantir que todas as páginas tenham uma navegação clara e consistente. OK
 
-### Semana 4: Inclusão de Imagens e Organização (1 semana) (Próxima semana)
+### Semana 4: Inclusão de Imagens e Organização (1 semana) 
 
 1.  Inserir imagens relacionadas ao conteúdo em pelo menos três páginas.
 2.  Organizar todas as imagens em uma pasta separada.
-3.  Utilizar pelo menos uma tabela para apresentar informações de maneira estruturada.
+3.  Utilizar pelo menos uma tabela para apresentar informações de maneira estruturada. OK
