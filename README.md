@@ -15,6 +15,8 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 ## 2° Fase: Criação de conteúdo
 
 - Escrita do conteúdo das páginas.
+	- *Modelos
+	- *Aplicação
 - Adição dos exemplos de cores na tabela.
 
 # Descrição do trabalho da fonte original
