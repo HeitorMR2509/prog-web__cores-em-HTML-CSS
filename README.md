@@ -59,7 +59,7 @@ Requerido:
 2.  Organizar todas as imagens em uma pasta separada.
 3.  Utilizar pelo menos uma tabela para apresentar informações de maneira estruturada. OK
 
-# Semana 5: Estilização com CSS (1 semana) (Próxima semana)
+### Semana 5: Estilização com CSS (1 semana) (Próxima semana)
 
 1. Desenvolver folhas de estilo CSS para aplicar formatação, cores e layout ao site.
 2. Certificar-se de que o site seja responsivo e se adapte a diferentes tamanhos de tela.
