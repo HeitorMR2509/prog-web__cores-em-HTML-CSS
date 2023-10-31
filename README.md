@@ -18,7 +18,7 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 	- *Modelos
 	- *Aplicação
 - Adição dos exemplos de cores na tabela.
-- Adição de uma imagem de uma borboleta-folha
+- Adição de uma imagem de uma borboleta-folha, de um círculo cromático e de um design de interior cheio de cores na página inicial.
 
 # Descrição do trabalho da fonte original
 
