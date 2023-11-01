@@ -19,6 +19,7 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 	- *Aplicação
 - Adição dos exemplos de cores na tabela.
 - Adição de uma imagem de uma borboleta-folha, de um círculo cromático e de um design de interior cheio de cores na página inicial.
+- Remoção da documentação da branch que vai para o Wagner, com excessão dos essenciais: .nojekill, .gitignore e README.md
 
 # Descrição do trabalho da fonte original
 
