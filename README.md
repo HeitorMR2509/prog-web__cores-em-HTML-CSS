@@ -19,7 +19,10 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 	- *Aplicação
 - Adição dos exemplos de cores na tabela.
 - Adição de uma imagem de uma borboleta-folha, de um círculo cromático e de um design de interior cheio de cores na página inicial.
-- Remoção da documentação da branch que vai para o Wagner, com excessão dos essenciais: .nojekill, .gitignore e README.md
+- Remoção da documentação da branch que vai para o Wagner, com excessão dos essenciais: .nojekill, .gitignore e README.md.
+- Atualização da estrutura semântica: título de section para header principal da página (hero).
+- Atualização do conteúdo das páginas: adição de algumas imagens e do conteúdo dos modelos. (ainda falta fotos para os conteúdos de ou os modelos ou a aplicação e o conteúdo da aplicação).
+
 
 # Descrição do trabalho da fonte original
 
@@ -47,8 +50,8 @@ Os alunos praticarão conceitos de HTML, CSS e colaboração em equipe.
 
 Requerido:
 
-- Mapa do site
-- Print da página principal (início)
+- Mapa do site OK
+- Print da página principal (início) OK
 
 ### Semana 3: Desenvolvimento de Páginas Internas (1 semana) (Urgência!!!)
 
