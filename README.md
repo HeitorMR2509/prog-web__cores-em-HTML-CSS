@@ -22,7 +22,9 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 - Remoção da documentação da branch que vai para o Wagner, com excessão dos essenciais: .nojekill, .gitignore e README.md.
 - Atualização da estrutura semântica: título de section para header principal da página (hero).
 - Atualização do conteúdo das páginas: adição de algumas imagens e do conteúdo dos modelos. (ainda falta fotos para os conteúdos de ou os modelos ou a aplicação e o conteúdo da aplicação).
-- Atualização do conteúdo das páginas: adição do conteúdo de aplicação.
+- Atualização do conteúdo das páginas: adição do conteúdo de aplicação e das imagens.
+
+## 3° Fase: Estilização
 
 
 # Descrição do trabalho da fonte original
