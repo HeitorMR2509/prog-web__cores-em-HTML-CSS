@@ -22,6 +22,7 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 - Remoção da documentação da branch que vai para o Wagner, com excessão dos essenciais: .nojekill, .gitignore e README.md.
 - Atualização da estrutura semântica: título de section para header principal da página (hero).
 - Atualização do conteúdo das páginas: adição de algumas imagens e do conteúdo dos modelos. (ainda falta fotos para os conteúdos de ou os modelos ou a aplicação e o conteúdo da aplicação).
+- Atualização do conteúdo das páginas: adição do conteúdo de aplicação.
 
 
 # Descrição do trabalho da fonte original
@@ -53,16 +54,20 @@ Requerido:
 - Mapa do site OK
 - Print da página principal (início) OK
 
-### Semana 3: Desenvolvimento de Páginas Internas (1 semana) (Urgência!!!)
+### Semana 3: Desenvolvimento de Páginas Internas (1 semana)
 
-1.  Desenvolver as páginas internas do site, cada uma com um tópico relevante relacionado ao tema escolhido.
+1.  Desenvolver as páginas internas do site, cada uma com um tópico relevante relacionado ao tema escolhido. OK
 2.  Garantir que todas as páginas tenham uma navegação clara e consistente. OK
 
 ### Semana 4: Inclusão de Imagens e Organização (1 semana) 
 
-1.  Inserir imagens relacionadas ao conteúdo em pelo menos três páginas.
-2.  Organizar todas as imagens em uma pasta separada.
+1.  Inserir imagens relacionadas ao conteúdo em pelo menos três páginas. OK
+2.  Organizar todas as imagens em uma pasta separada. OK
 3.  Utilizar pelo menos uma tabela para apresentar informações de maneira estruturada. OK
+
+Requerido:
+
+- PDF contendo prints das páginas. OK
 
 ### Semana 5: Estilização com CSS (1 semana) (Próxima semana)
 

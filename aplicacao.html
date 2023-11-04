@@ -42,8 +42,233 @@
       <section>
         <h3>Sumário</h3>
         <ol>
-          <li></li>
+          <li><a href="#introducao">Introdução</a></li>
+          <li>
+            <a href="#usando-o-css">Usando o CSS</a>
+            <ul>
+              <li>
+                <a href="#seletores">Seletores</a>
+                <ol>
+                  <li><a href="#seletor-de-tipo">Seletor de tipo</a></li>
+                  <li><a href="#seletor-de-classe">Seletor de classe</a></li>
+                  <li><a href="#seletor-de-id">Seletor de ID</a></li>
+                  <li>
+                    <a href="#seletor-de-atributo">Seletor de atributo</a>
+                  </li>
+                </ol>
+              </li>
+              <li>
+                <a href="#propriedades-de-cores">Propriedades de cores</a>
+                <ol>
+                  <li>
+                    <a href="#utilizando-a-propriedade-color"
+                      >Utilizando a propriedade color</a
+                    >
+                  </li>
+                  <li>
+                    <a href="#utilizando-a-propriedade-background-color"
+                      >Utilizando a propriedade background-color</a
+                    >
+                  </li>
+                </ol>
+              </li>
+            </ul>
+          </li>
         </ol>
+        <article id="introducao">
+          <h2>Introdução</h2>
+          <p>
+            A aplicação de cores desempenha um papel crucial no design de
+            páginas da web, influenciando a primeira impressão dos visitantes e
+            afetando a usabilidade e a compreensão das informações apresentadas.
+            Neste artigo, exploraremos algumas das diversas técnicas e
+            ferramentas para aplicar cores de forma eficaz em elementos HTML e
+            CSS, capacitando designers e desenvolvedores a criar experiências
+            visuais envolventes e informativas na web.
+          </p>
+        </article>
+        <article id="usando-o-css">
+          <h2>Usando o CSS</h2>
+          <p>
+            A linguagem CSS (Cascading Style Sheets) desempenha um papel
+            fundamental na criação de designs atraentes e na formatação de
+            páginas da web. Ela permite controlar a aparência visual de
+            elementos HTML, tornando possível personalizar layouts, cores,
+            tipografia e muito mais. Para apropriar-se da estilização das cores
+            é necessária a compreensão mínima de pelo menos dois aspectos
+            essenciais do CSS: os seletores e as propriedades de cores.
+          </p>
+          <article id="seletores">
+            <h3>Seletores</h3>
+            <p>
+              Os seletores CSS são uma parte fundamental da estilização de
+              páginas da web, permitindo direcionar elementos HTML específicos
+              para aplicar estilos personalizados. Vamos explorar alguns
+              exemplos de seletores CSS para entender melhor como funcionam:
+            </p>
+            <article id="seletor-de-tipo">
+              <h4>Seletor de tipo</h4>
+              <p>
+                O seletor de tipo é simples e direto. Ele seleciona todos os
+                elementos de um determinado tipo. Por exemplo, o seletor `p`
+                aplica estilos a todos os parágrafos em uma página.
+              </p>
+              <figure style="text-align: center">
+                <picture>
+                  <img
+                    src="./assets/img/seletor-tipo-jpg.jpg"
+                    alt="Imagem de exemplo de seletor de tipo."
+                    loading="lazy"
+                    decoding="async"
+                    style="width: 100%"
+                  />
+                </picture>
+                <figcaption>Exemplo de seletor de tipo</figcaption>
+              </figure>
+            </article>
+            <article id="seletor-de-classe">
+              <h4>Seletor de classe</h4>
+              <p>
+                O seletor de classe permite direcionar elementos que têm uma
+                classe específica. Isso é útil para aplicar estilos a elementos
+                semelhantes, mas não todos. Por exemplo, com HTML como este:
+              </p>
+              <figure style="text-align: center">
+                <picture>
+                  <img
+                    src="./assets/img/seletor-classe-exemplo-jpg.jpg"
+                    alt="Imagem de exemplo em HTML de seletor de classe."
+                    loading="lazy"
+                    decoding="async"
+                    style="width: 100%"
+                  />
+                </picture>
+                <figcaption>Exemplo em HTML de seletor de classe</figcaption>
+              </figure>
+              <p>O CSS pode ser:</p>
+              <figure style="text-align: center">
+                <picture>
+                  <img
+                    src="./assets/img/seletor-classe-jpg.jpg"
+                    alt="Imagem de exemplo de seletor de classe."
+                    loading="lazy"
+                    decoding="async"
+                    style="width: 100%"
+                  />
+                </picture>
+                <figcaption>Exemplo de seletor de classe</figcaption>
+              </figure>
+            </article>
+            <article id="seletor-de-id">
+              <h4>Seletor de ID</h4>
+              <p>
+                O seletor de ID é usado para aplicar estilos a um único elemento
+                com um ID específico. É menos comum do que os seletores de
+                classe, mas ainda útil. Por exemplo, com HTML como este:
+              </p>
+              <figure style="text-align: center">
+                <picture>
+                  <img
+                    src="./assets/img/seletor-id-exemplo-jpg.jpg"
+                    alt="Imagem de exemplo em HTML de seletor de ID."
+                    loading="lazy"
+                    decoding="async"
+                    style="width: 100%"
+                  />
+                </picture>
+                <figcaption>Exemplo em HTML de seletor de ID</figcaption>
+              </figure>
+              <p>O CSS pode ser:</p>
+              <figure style="text-align: center">
+                <picture>
+                  <img
+                    src="./assets/img/seletor-id-jpg.jpg"
+                    alt="Imagem de exemplo de seletor de ID."
+                    loading="lazy"
+                    decoding="async"
+                    style="width: 100%"
+                  />
+                </picture>
+                <figcaption>Exemplo de seletor de ID</figcaption>
+              </figure>
+            </article>
+            <article id="seletor-de-atributo">
+              <h4>Seletor de atributo</h4>
+              <p>
+                Os seletores de atributo permitem selecionar elementos com base
+                em seus atributos. Por exemplo, para selecionar todos os links
+                que abrem em uma nova guia:
+              </p>
+              <figure style="text-align: center">
+                <picture>
+                  <img
+                    src="./assets/img/seletor-atributo-jpg.jpg"
+                    alt="Imagem de exemplo de seletor de atributo."
+                    loading="lazy"
+                    decoding="async"
+                    style="width: 100%"
+                  />
+                </picture>
+                <figcaption>Exemplo de seletor de atributo</figcaption>
+              </figure>
+            </article>
+            <p>
+              Esses são apenas alguns exemplos dos muitos seletores CSS
+              disponíveis. A combinação de seletores e propriedades CSS oferece
+              um amplo leque de opções para personalizar a aparência de páginas
+              da web e criar designs únicos e atraentes.
+            </p>
+          </article>
+          <article id="propriedades-de-cores">
+            <h3>Propriedades de cores</h3>
+            <p>
+              As propriedades de cores desempenham um papel vital na paleta
+              visual de uma página da web. Com CSS, é possível definir cores
+              para texto, fundos, bordas e outros elementos. Isso oferece
+              flexibilidade para criar combinações de cores atraentes que se
+              alinham com a identidade de uma marca ou o tema de um site.
+            </p>
+            <article id="utilizando-a-propriedade-color">
+              <h4>Utilizando a propriedade `color`</h4>
+              <p>
+                A propriedade `color` define a cor do texto dentro de um
+                elemento HTML. Você pode especificar uma cor usando diferentes
+                tipos de referência, como as apresentadas em modelos:
+              </p>
+              <figure style="text-align: center">
+                <picture>
+                  <img
+                    src="./assets/img/utilizando-a-propriedade-color-jpg.jpg"
+                    alt="Imagem de exemplo da propriedade color no CSS."
+                    loading="lazy"
+                    decoding="async"
+                    style="width: 100%"
+                  />
+                </picture>
+              </figure>
+            </article>
+            <article id="utilizando-a-propriedade-background-color">
+              <h4>Utilizando a propriedade `background-color`</h4>
+              <p>
+                A propriedade `background-color` define a cor de fundo de um
+                elemento HTML. Você pode personalizar o fundo de elementos como
+                divs, parágrafos ou até mesmo a página inteira:
+              </p>
+              <figure style="text-align: center">
+                <picture>
+                  <img
+                    src="./assets/img/utilizando-a-propriedade-background-color-jpg.jpg"
+                    alt="Imagem de exemplo da propriedade background-color em CSS."
+                    loading="lazy"
+                    decoding="async"
+                    style="width: 100%"
+                  />
+                </picture>
+                <figcaption>Exemplo da propriedade background-color</figcaption>
+              </figure>
+            </article>
+          </article>
+        </article>
       </section>
     </main>
     <footer>
