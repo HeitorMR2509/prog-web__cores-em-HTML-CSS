@@ -26,6 +26,7 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 
 ## 3° Fase: Estilização
 - Estilização inicial e estrutura de css: settings(variáveis globais), base, components e layouts (talvez utilities se precisar).
+- Adição de mais alguns componentes, estilização da tabela de exemplos e do hero(discutir sobre as cores, que estão com contraste ruim).
 
 
 # Descrição do trabalho da fonte original

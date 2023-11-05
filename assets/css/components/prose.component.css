@@ -9,6 +9,13 @@
 	font-size: var(--_fs);
 }
 
+/*
+	Sumário: text align left!
+*/
+.prose :not(h1, h2, h3, h4, h5, h6, #c-sumario, #c-sumario *) {
+	text-align: justify;
+}
+
 .prose figure {
 	text-align: center;
 }
