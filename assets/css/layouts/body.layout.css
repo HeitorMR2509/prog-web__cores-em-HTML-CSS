@@ -5,4 +5,6 @@ body {
 	color: var(--_clr-txt);
 	background-color: var(--_clr-bg);
 	padding-top: 50px;
+
+	scroll-behavior: smooth;
 }
