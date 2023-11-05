@@ -1,0 +1,22 @@
+.prose {
+	--_max-width: var(--prose-wrapper-width, 768px);
+	--_padding-inline: var(--prose-wrapper-padding-inline, 1rem);
+	--_fs: var(--prose-font-size, clamp(1rem, 5vw - 1rem, 1.5rem));
+
+	width: min(var(--_max-width), 100%);
+	margin-inline: auto;
+	padding-inline: var(--_padding-inline);
+	font-size: var(--_fs);
+}
+
+.prose figure {
+	text-align: center;
+}
+
+.prose figcaption {
+	font-size: .8em;
+}
+
+.prose img {
+	width: 100%;
+}

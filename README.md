@@ -25,6 +25,7 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 - Atualização do conteúdo das páginas: adição do conteúdo de aplicação e das imagens.
 
 ## 3° Fase: Estilização
+- Estilização inicial e estrutura de css: settings(variáveis globais), base, components e layouts (talvez utilities se precisar).
 
 
 # Descrição do trabalho da fonte original

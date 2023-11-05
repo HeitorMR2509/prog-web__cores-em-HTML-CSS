@@ -1,0 +1,8 @@
+body {
+	--_clr-txt: var(--clr-neutral-900, #000005);
+	--_clr-bg: var(--clr-neutral-100, #f5f5f5);
+
+	color: var(--_clr-txt);
+	background-color: var(--_clr-bg);
+	padding-top: 50px;
+}

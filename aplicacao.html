@@ -16,32 +16,41 @@
       name="keywords"
       content="website,trabalho,grupo,cores,html,css,curso"
     />
+    <link rel="stylesheet" href="assets/css/base/modern-normalize.min.css" />
+    <link rel="stylesheet" href="assets/css/settings/default.settings.css" />
+    <link rel="stylesheet" href="assets/css/layouts/body.layout.css" />
+    <link rel="stylesheet" href="assets/css/components/nav.component.css" />
+    <link rel="stylesheet" href="assets/css/components/sumario.component.css" />
+    <link rel="stylesheet" href="assets/css/components/prose.component.css" />
+    <link rel="stylesheet" href="assets/css/components/footer.component.css" />
   </head>
   <body>
-    <nav>
-      <ul>
-        <li><a href="index.html">Início</a></li>
-        <li><a href="historia.html">História</a></li>
-        <li><a href="exemplos.html">Exemplos</a></li>
-        <li><a href="modelos.html">Modelos</a></li>
-        <li><a href="#">Aplicação</a></li>
+    <nav id="c-nav">
+      <ul id="c-nav__list">
+        <li class="c-nav__item">
+          <a href="index.html" class="c-nav__link">Início</a>
+        </li>
+        <li class="c-nav__item">
+          <a href="historia.html" class="c-nav__link">História</a>
+        </li>
+        <li class="c-nav__item">
+          <a href="exemplos.html" class="c-nav__link">Exemplos</a>
+        </li>
+        <li class="c-nav__item">
+          <a href="modelos.html" class="c-nav__link">Modelos</a>
+        </li>
+        <li class="c-nav__item">
+          <a href="#" class="c-nav__link">Aplicação</a>
+        </li>
       </ul>
     </nav>
-    <main
-      style="
-        width: min(768px, 100%);
-        margin-inline: auto;
-        font-size: 1.5rem;
-        font-family: Arial, Helvetica, sans-serif;
-        text-align: justify;
-      "
-    >
+    <main>
       <section>
         <h1>Aplicações das cores em HTML/CSS</h1>
       </section>
-      <section>
+      <section class="prose">
         <h3>Sumário</h3>
-        <ol>
+        <ol id="c-sumario">
           <li><a href="#introducao">Introdução</a></li>
           <li>
             <a href="#usando-o-css">Usando o CSS</a>
@@ -113,14 +122,13 @@
                 elementos de um determinado tipo. Por exemplo, o seletor `p`
                 aplica estilos a todos os parágrafos em uma página.
               </p>
-              <figure style="text-align: center">
+              <figure>
                 <picture>
                   <img
                     src="./assets/img/seletor-tipo-jpg.jpg"
                     alt="Imagem de exemplo de seletor de tipo."
                     loading="lazy"
                     decoding="async"
-                    style="width: 100%"
                   />
                 </picture>
                 <figcaption>Exemplo de seletor de tipo</figcaption>
@@ -133,27 +141,25 @@
                 classe específica. Isso é útil para aplicar estilos a elementos
                 semelhantes, mas não todos. Por exemplo, com HTML como este:
               </p>
-              <figure style="text-align: center">
+              <figure>
                 <picture>
                   <img
                     src="./assets/img/seletor-classe-exemplo-jpg.jpg"
                     alt="Imagem de exemplo em HTML de seletor de classe."
                     loading="lazy"
                     decoding="async"
-                    style="width: 100%"
                   />
                 </picture>
                 <figcaption>Exemplo em HTML de seletor de classe</figcaption>
               </figure>
               <p>O CSS pode ser:</p>
-              <figure style="text-align: center">
+              <figure>
                 <picture>
                   <img
                     src="./assets/img/seletor-classe-jpg.jpg"
                     alt="Imagem de exemplo de seletor de classe."
                     loading="lazy"
                     decoding="async"
-                    style="width: 100%"
                   />
                 </picture>
                 <figcaption>Exemplo de seletor de classe</figcaption>
@@ -166,27 +172,25 @@
                 com um ID específico. É menos comum do que os seletores de
                 classe, mas ainda útil. Por exemplo, com HTML como este:
               </p>
-              <figure style="text-align: center">
+              <figure>
                 <picture>
                   <img
                     src="./assets/img/seletor-id-exemplo-jpg.jpg"
                     alt="Imagem de exemplo em HTML de seletor de ID."
                     loading="lazy"
                     decoding="async"
-                    style="width: 100%"
                   />
                 </picture>
                 <figcaption>Exemplo em HTML de seletor de ID</figcaption>
               </figure>
               <p>O CSS pode ser:</p>
-              <figure style="text-align: center">
+              <figure>
                 <picture>
                   <img
                     src="./assets/img/seletor-id-jpg.jpg"
                     alt="Imagem de exemplo de seletor de ID."
                     loading="lazy"
                     decoding="async"
-                    style="width: 100%"
                   />
                 </picture>
                 <figcaption>Exemplo de seletor de ID</figcaption>
@@ -199,14 +203,13 @@
                 em seus atributos. Por exemplo, para selecionar todos os links
                 que abrem em uma nova guia:
               </p>
-              <figure style="text-align: center">
+              <figure>
                 <picture>
                   <img
                     src="./assets/img/seletor-atributo-jpg.jpg"
                     alt="Imagem de exemplo de seletor de atributo."
                     loading="lazy"
                     decoding="async"
-                    style="width: 100%"
                   />
                 </picture>
                 <figcaption>Exemplo de seletor de atributo</figcaption>
@@ -235,14 +238,13 @@
                 elemento HTML. Você pode especificar uma cor usando diferentes
                 tipos de referência, como as apresentadas em modelos:
               </p>
-              <figure style="text-align: center">
+              <figure>
                 <picture>
                   <img
                     src="./assets/img/utilizando-a-propriedade-color-jpg.jpg"
                     alt="Imagem de exemplo da propriedade color no CSS."
                     loading="lazy"
                     decoding="async"
-                    style="width: 100%"
                   />
                 </picture>
                 <figcaption>Exemplo da propriedade color</figcaption>
@@ -255,14 +257,13 @@
                 elemento HTML. Você pode personalizar o fundo de elementos como
                 divs, parágrafos ou até mesmo a página inteira:
               </p>
-              <figure style="text-align: center">
+              <figure>
                 <picture>
                   <img
                     src="./assets/img/utilizando-a-propriedade-background-color-jpg.jpg"
                     alt="Imagem de exemplo da propriedade background-color em CSS."
                     loading="lazy"
                     decoding="async"
-                    style="width: 100%"
                   />
                 </picture>
                 <figcaption>Exemplo da propriedade background-color</figcaption>
@@ -272,11 +273,19 @@
         </article>
       </section>
     </main>
-    <footer>
+    <footer id="c-footer">
       <p>
         Feito por Grupo 7: Heitor M. Rosi, Lorran C. Meneguelli e Natã F. da
         Silva Barbosa
       </p>
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 -960 960 960"
+        id="c-footer__to-top"
+        onclick="window.scrollTo({behavior:'smooth', top: 0})"
+      >
+        <path d="m296-345-56-56 240-240 240 240-56 56-184-184-184 184Z" />
+      </svg>
     </footer>
   </body>
 </html>

@@ -1,0 +1,33 @@
+#c-nav {
+	--_clr-bg: var(--clr-neutral-900, #000005);
+	--_clr-txt: var(--clr-neutral-100, #f5f5f5);
+
+	background-color: var(--_clr-bg);
+	color: var(--_clr-txt);
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+#c-nav__list {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	display: flex;
+	justify-content: space-between;
+}
+
+.c-nav__item {
+	flex-grow: 1;
+}
+
+.c-nav__link {
+	text-align: center;
+	display: block;
+	color: currentColor;
+	padding-block: 1rem;
+}
+
+.c-nav__link:hover {
+	background-color: #f5f5f55f;
+}

@@ -1,0 +1,30 @@
+#c-footer {
+	--_clr-bg: var(--clr-neutral-900, #000005);
+	--_clr-txt: var(--clr-neutral-100, #f5f5f5);
+
+	background-color: var(--_clr-bg);
+	color: var(--_clr-txt);
+	padding: 5rem 1rem;
+	text-align: center;
+}
+
+#c-footer__to-top {
+	fill: var(--_clr-txt);
+	border-radius: 9999px;
+	border: 1px solid var(--_clr-txt);
+	max-width: 50px;
+	cursor: pointer;
+}
+
+#c-footer__to-top:hover {
+	animation: jump-anim .3s ease-in-out infinite alternate;
+}
+
+@keyframes jump-anim {
+	from {
+		transform: translateY(0);
+	}
+	to {
+		transform: translateY(5px);
+	}
+}
