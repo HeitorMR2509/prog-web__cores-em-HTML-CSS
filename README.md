@@ -27,7 +27,7 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 ## 3° Fase: Estilização
 - Estilização inicial e estrutura de css: settings(variáveis globais), base, components e layouts (talvez utilities se precisar).
 - Adição de mais alguns componentes, estilização da tabela de exemplos e do hero(discutir sobre as cores, que estão com contraste ruim).
-- Adição de uma brincadeira com o Wagner (se ele pedir com jeitinho, eu tiro :p)
+- Adição de uma brincadeira com o Wagner (se ele pedir com jeitinho, eu tiro :p) e com o Bello
 
 
 ## 4° Fase: Estilização e formulário
@@ -79,8 +79,12 @@ Requerido:
 
 ### Semana 5: Estilização com CSS (1 semana)
 
-1. Desenvolver folhas de estilo CSS para aplicar formatação, cores e layout ao site.
-2. Certificar-se de que o site seja responsivo e se adapte a diferentes tamanhos de tela.
+1. Desenvolver folhas de estilo CSS para aplicar formatação, cores e layout ao site. OK
+2. Certificar-se de que o site seja responsivo e se adapte a diferentes tamanhos de tela. OK
+
+Requerido:
+
+- PDF contendo prints das páginas. OK
 
 ### Semana 6: Adição de Formulários (1 semana) (Próxima semana)
 
