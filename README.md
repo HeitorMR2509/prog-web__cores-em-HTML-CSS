@@ -28,6 +28,7 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 - Estilização inicial e estrutura de css: settings(variáveis globais), base, components e layouts (talvez utilities se precisar).
 - Adição de mais alguns componentes, estilização da tabela de exemplos e do hero(discutir sobre as cores, que estão com contraste ruim).
 - Adição de uma brincadeira com o Wagner (se ele pedir com jeitinho, eu tiro :p) e com o Bello
+- Adição de variáveis para cores primárias diferentes das neutras.
 
 
 ## 4° Fase: Estilização e formulário
@@ -86,7 +87,23 @@ Requerido:
 
 - PDF contendo prints das páginas. OK
 
-### Semana 6: Adição de Formulários (1 semana) (Próxima semana)
+### Semana 6: Adição de Formulários (1 semana)
 
 1. Incluir pelo menos um formulário em uma das páginas para coletar informações ou feedback dos visitantes.
 2. Certificar-se de que o formulário seja funcional e envie dados (mesmo que seja apenas para fins de demonstração).
+
+### Semana 7: Revisão Final e Entrega (1 semana) (Próxima semana)
+
+1. Revisar todas as páginas para garantir que os links funcionem corretamente.
+2. Certificar-se de que todos os requisitos, incluindo links de navegação, listas ordenadas, imagens, tabelas e formulários, sejam atendidos.
+3. Compactar todos os arquivos em uma pasta e enviá-la como a entrega final do projeto.
+
+### Entrega Final:
+
+- Cada grupo deve enviar a pasta compactada contendo todo o código-fonte do projeto, incluindo HTML, CSS, imagens e pastas organizadas.
+- Certifiquem-se de que o site esteja funcional e bem estilizado.
+- O prazo final de entrega é [data definida pelo professor].
+
+### Avaliação:
+
+O projeto será avaliado com base na estrutura, conteúdo, formatação, funcionalidade, estilização com CSS e trabalho em equipe. Certifiquem-se de colaborar ativamente dentro do grupo e criar um site educativo e atraente.
