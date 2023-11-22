@@ -32,6 +32,7 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 
 
 ## 4° Fase: Estilização e formulário
+- Introdução do formulário 
 
 
 # Descrição do trabalho da fonte original
@@ -63,12 +64,12 @@ Requerido:
 - Mapa do site OK
 - Print da página principal (início) OK
 
-### Semana 3: Desenvolvimento de Páginas Internas (1 semana)
+### Semana 3: Desenvolvimento de Páginas Internas (1 semana) OK
 
 1.  Desenvolver as páginas internas do site, cada uma com um tópico relevante relacionado ao tema escolhido. OK
 2.  Garantir que todas as páginas tenham uma navegação clara e consistente. OK
 
-### Semana 4: Inclusão de Imagens e Organização (1 semana) 
+### Semana 4: Inclusão de Imagens e Organização (1 semana) OK
 
 1.  Inserir imagens relacionadas ao conteúdo em pelo menos três páginas. OK
 2.  Organizar todas as imagens em uma pasta separada. OK
@@ -78,7 +79,7 @@ Requerido:
 
 - PDF contendo prints das páginas. OK
 
-### Semana 5: Estilização com CSS (1 semana)
+### Semana 5: Estilização com CSS (1 semana) OK
 
 1. Desenvolver folhas de estilo CSS para aplicar formatação, cores e layout ao site. OK
 2. Certificar-se de que o site seja responsivo e se adapte a diferentes tamanhos de tela. OK
@@ -102,7 +103,7 @@ Requerido:
 
 - Cada grupo deve enviar a pasta compactada contendo todo o código-fonte do projeto, incluindo HTML, CSS, imagens e pastas organizadas.
 - Certifiquem-se de que o site esteja funcional e bem estilizado.
-- O prazo final de entrega é [data definida pelo professor].
+- O prazo final de entrega é 1 de dezembro.
 
 ### Avaliação:
 
