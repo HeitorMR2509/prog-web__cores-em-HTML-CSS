@@ -33,6 +33,9 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 
 ## 4° Fase: Estilização e formulário
 - Introdução do formulário 
+- Formatação das páginas com Prettier
+- Adição da estilização inicial do formulário
+- Implantação de sistema de envio com Google App Script. (Terminar de implementar)
 
 
 # Descrição do trabalho da fonte original
