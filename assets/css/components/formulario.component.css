@@ -1,3 +1,52 @@
 .c-formulario {
-    
+	width: min(400px, 100%);
+	margin-inline: auto;
+	text-align: center;
+	margin-block: 5rem;
+}
+
+.c-formulario :not(h2) {
+	font-size: 1rem;
+}
+
+.c-formulario__input {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 1rem;
+}
+
+
+.c-formulario__input-label {
+	align-self: flex-start;
+	padding-left: 1rem;
+	padding-block: .1rem;
+}
+
+.c-formulario__input :is(input, textarea) {
+	outline: none;
+	padding: .5rem 1rem;
+	border-radius: 1rem;
+	border: 1px solid gray;
+}
+
+.c-formulario__input :is(input, textarea):is(:active, :focus) {
+	outline: 1px solid gray;
+}
+
+#c-formulario__input-conteudo {
+	resize: vertical;
+}
+
+.c-formulario__actions {
+	text-align: start;
+}
+
+.c-formulario__submit-button {
+	padding: .5rem 1rem;
+	border-radius: 1rem;
+	border: 1px solid gray;
+}
+
+.c-formulario__submit-button:active {
+	background-color: gray;
 }

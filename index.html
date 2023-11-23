@@ -164,9 +164,9 @@
           </figure>
         </article>
       </section>
-      <section class="c-formulario">
+      <section class="c-formulario prose">
         <h2>Alguma dúvida?</h2>
-        <form name="c-formulario" class="c-formulario__form">
+        <form action="https://youtu.be/dQw4w9WgXcQ?si=i6u4bepegx3UcJ_U" method="get" class="c-formulario__form">
           <div class="c-formulario__input">
             <label
               for="c-formulario__input-nome"
@@ -183,17 +183,29 @@
           </div>
           <div class="c-formulario__input">
             <label
+              for="c-formulario__input-email"
+              class="c-formulario__input-label"
+              >E-mail</label
+            >
+            <input
+              name="email"
+              id="c-formulario__input-email"
+              type="email"
+              required
+            />
+          </div>
+          <div class="c-formulario__input">
+            <label
               for="c-formulario__input-conteudo"
               class="c-formulario__input-label"
               >Conteúdo</label
             >
-            <input
+            <textarea
               name="conteudo"
               id="c-formulario__input-conteudo"
-              cols="30"
               rows="10"
               required
-            />
+            ></textarea>
           </div>
           <div class="c-formulario__actions">
             <button type="submit" class="c-formulario__submit-button">
@@ -217,17 +229,5 @@
         <path d="m296-345-56-56 240-240 240 240-56 56-184-184-184 184Z" />
       </svg>
     </footer>
-    <script>
-      const scriptURL =
-        "https://script.google.com/macros/s/AKfycbyvL8S0d5oOJw6CNu-rj7e7Q9cGkuQL7xV0wIpU0KJ46gEQYCq-RfOIJCO_md17vS6C/exec";
-      const form = document.forms["c-formulario"];
-
-      form.addEventListener("submit", (e) => {
-        e.preventDefault();
-        fetch(scriptURL, { method: "POST", body: new FormData(form) })
-          .then((response) => console.log("Success!", response))
-          .catch((error) => console.error("Error!", error.message));
-      });
-    </script>
   </body>
 </html>

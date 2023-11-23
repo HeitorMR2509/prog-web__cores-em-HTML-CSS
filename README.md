@@ -35,7 +35,8 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 - Introdução do formulário 
 - Formatação das páginas com Prettier
 - Adição da estilização inicial do formulário
-- Implantação de sistema de envio com Google App Script. (Terminar de implementar)
+- Término da estilização do formulário (BEM básico)
+- Adição do formulário nas outras páginas, menos na de exemplos por causa do Wagner no final :p
 
 
 # Descrição do trabalho da fonte original
@@ -93,8 +94,8 @@ Requerido:
 
 ### Semana 6: Adição de Formulários (1 semana)
 
-1. Incluir pelo menos um formulário em uma das páginas para coletar informações ou feedback dos visitantes.
-2. Certificar-se de que o formulário seja funcional e envie dados (mesmo que seja apenas para fins de demonstração).
+1. Incluir pelo menos um formulário em uma das páginas para coletar informações ou feedback dos visitantes. OK
+2. Certificar-se de que o formulário seja funcional e envie dados (mesmo que seja apenas para fins de demonstração). OK
 
 ### Semana 7: Revisão Final e Entrega (1 semana) (Próxima semana)
 

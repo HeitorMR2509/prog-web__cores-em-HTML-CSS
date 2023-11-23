@@ -23,6 +23,10 @@
     <link rel="stylesheet" href="assets/css/components/hero.component.css" />
     <link rel="stylesheet" href="assets/css/components/sumario.component.css" />
     <link rel="stylesheet" href="assets/css/components/prose.component.css" />
+    <link
+      rel="stylesheet"
+      href="assets/css/components/formulario.component.css"
+    />
     <link rel="stylesheet" href="assets/css/components/footer.component.css" />
   </head>
   <body>
@@ -272,6 +276,60 @@
             </article>
           </article>
         </article>
+      </section>
+      <section class="c-formulario prose">
+        <h2>Alguma dúvida?</h2>
+        <form
+          action="https://youtu.be/dQw4w9WgXcQ?si=i6u4bepegx3UcJ_U"
+          method="get"
+          class="c-formulario__form"
+        >
+          <div class="c-formulario__input">
+            <label
+              for="c-formulario__input-nome"
+              class="c-formulario__input-label"
+              >Nome</label
+            >
+            <input
+              type="text"
+              name="nome"
+              id="c-formulario__input-nome"
+              placeholder="Seu nome"
+              required
+            />
+          </div>
+          <div class="c-formulario__input">
+            <label
+              for="c-formulario__input-email"
+              class="c-formulario__input-label"
+              >E-mail</label
+            >
+            <input
+              name="email"
+              id="c-formulario__input-email"
+              type="email"
+              required
+            />
+          </div>
+          <div class="c-formulario__input">
+            <label
+              for="c-formulario__input-conteudo"
+              class="c-formulario__input-label"
+              >Conteúdo</label
+            >
+            <textarea
+              name="conteudo"
+              id="c-formulario__input-conteudo"
+              rows="10"
+              required
+            ></textarea>
+          </div>
+          <div class="c-formulario__actions">
+            <button type="submit" class="c-formulario__submit-button">
+              Enviar
+            </button>
+          </div>
+        </form>
       </section>
     </main>
     <footer id="c-footer">
