@@ -5,9 +5,25 @@
 
 #c-exemplos :is(td, th) {
 	border: 1px solid black;
-	padding: .1rem .5rem;
+	padding: .1rem .1rem;
+}
+
+@media screen and (min-width: 400px) {
+	#c-exemplos :is(td, th) {
+		padding: .1rem .5rem;
+	}
 }
 
 #c-exemplos tr:nth-child(odd) {
 	background-color: #ffffff;
+}
+
+/*
+	|| Para resolver um erro com a tabela em dispositivos muito pequenos.
+	!!! Apenas para a página de exemplos. !!!
+*/
+@media screen and (max-width: 400px) {
+	.prose {
+		padding-inline: .2rem !important;
+	}
 }

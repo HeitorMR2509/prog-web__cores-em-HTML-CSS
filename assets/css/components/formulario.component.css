@@ -29,6 +29,10 @@
 	border: 1px solid gray;
 }
 
+.c-formulario__input :is(input, textarea):is(:hover) {
+	border: 1px solid darkgray;
+}
+
 .c-formulario__input :is(input, textarea):is(:active, :focus) {
 	outline: 1px solid gray;
 }
@@ -45,6 +49,11 @@
 	padding: .5rem 1rem;
 	border-radius: 1rem;
 	border: 1px solid gray;
+	cursor: pointer;
+}
+
+.c-formulario__submit-button:hover {
+	background-color: darkgray;
 }
 
 .c-formulario__submit-button:active {

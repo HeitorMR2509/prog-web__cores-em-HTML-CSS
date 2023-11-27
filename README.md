@@ -27,16 +27,19 @@ Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS
 ## 3° Fase: Estilização
 - Estilização inicial e estrutura de css: settings(variáveis globais), base, components e layouts (talvez utilities se precisar).
 - Adição de mais alguns componentes, estilização da tabela de exemplos e do hero(discutir sobre as cores, que estão com contraste ruim).
-- Adição de uma brincadeira com o Wagner (se ele pedir com jeitinho, eu tiro :p) e com o Bello
+- Adição de uma brincadeira com o Wagner (se ele pedir com jeitinho, eu tiro :p) e com o Bello.
 - Adição de variáveis para cores primárias diferentes das neutras.
 
 
 ## 4° Fase: Estilização e formulário
-- Introdução do formulário 
-- Formatação das páginas com Prettier
-- Adição da estilização inicial do formulário
-- Término da estilização do formulário (BEM básico)
-- Adição do formulário nas outras páginas, menos na de exemplos por causa do Wagner no final :p
+- Introdução do formulário .
+- Formatação das páginas com Prettier.
+- Adição da estilização inicial do formulário.
+- Término da estilização do formulário (BEM básico).
+- Adição do formulário nas outras páginas, menos na de exemplos por causa do Wagner no final. :p
+- Adição dos placeholders dos inputs.
+- Adição de uma correção ao tamanho da tabela em dispositivos muito pequenos (até um certo ponto :p).
+- Adição de algumas transições/animações em alguns elementos e correção de possíveis bugs e erros.
 
 
 # Descrição do trabalho da fonte original
@@ -92,12 +95,16 @@ Requerido:
 
 - PDF contendo prints das páginas. OK
 
-### Semana 6: Adição de Formulários (1 semana)
+### Semana 6: Adição de Formulários (1 semana) OK
 
 1. Incluir pelo menos um formulário em uma das páginas para coletar informações ou feedback dos visitantes. OK
 2. Certificar-se de que o formulário seja funcional e envie dados (mesmo que seja apenas para fins de demonstração). OK
 
-### Semana 7: Revisão Final e Entrega (1 semana) (Próxima semana)
+Requerido:
+
+- PDF contendo prints das páginas. OK
+
+### Semana 7: Revisão Final e Entrega (1 semana)
 
 1. Revisar todas as páginas para garantir que os links funcionem corretamente.
 2. Certificar-se de que todos os requisitos, incluindo links de navegação, listas ordenadas, imagens, tabelas e formulários, sejam atendidos.
