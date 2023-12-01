@@ -106,8 +106,8 @@ Requerido:
 
 ### Semana 7: Revisão Final e Entrega (1 semana)
 
-1. Revisar todas as páginas para garantir que os links funcionem corretamente.
-2. Certificar-se de que todos os requisitos, incluindo links de navegação, listas ordenadas, imagens, tabelas e formulários, sejam atendidos.
+1. Revisar todas as páginas para garantir que os links funcionem corretamente. OK
+2. Certificar-se de que todos os requisitos, incluindo links de navegação, listas ordenadas, imagens, tabelas e formulários, sejam atendidos. OK
 3. Compactar todos os arquivos em uma pasta e enviá-la como a entrega final do projeto.
 
 ### Entrega Final:
