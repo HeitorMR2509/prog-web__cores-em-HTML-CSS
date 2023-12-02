@@ -2,6 +2,8 @@
 
 Trabalho de conclusão de disciplina Programação Web 1 sobre Cores em HTML/CSS.
 
+FEITO E ENTREGUE DIA 02/12/2023
+
 ## 1° Fase: Criação das páginas e conteúdo placeholder
 
 - Ausência de CSS, pois o professor apenas pediu a criação das páginas do projeto e o CSS será incluso tardamente.
@@ -104,11 +106,11 @@ Requerido:
 
 - PDF contendo prints das páginas. OK
 
-### Semana 7: Revisão Final e Entrega (1 semana)
+### Semana 7: Revisão Final e Entrega (1 semana) OK
 
 1. Revisar todas as páginas para garantir que os links funcionem corretamente. OK
 2. Certificar-se de que todos os requisitos, incluindo links de navegação, listas ordenadas, imagens, tabelas e formulários, sejam atendidos. OK
-3. Compactar todos os arquivos em uma pasta e enviá-la como a entrega final do projeto.
+3. Compactar todos os arquivos em uma pasta e enviá-la como a entrega final do projeto. OK
 
 ### Entrega Final:
 
